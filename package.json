@@ -1,0 +1,28 @@
+{
+  "name": "Head-Parse",
+  "version": "0.0.1",
+  "description": "What am I about?",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "body-parser": "1.17.2",
+    "cors": "2.8.4",
+    "express-useragent": "^1.0.7"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://dandy-pyjama.glitch.me/edit/api/whoami"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+    ],
+  "license": "MIT"
+}
